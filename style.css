@@ -1,0 +1,18 @@
+.container-fluid{
+   /* border: 1px solid red;*/
+}
+
+header{
+    background-image: url("kepek/fejlec.jpg");
+    height: 450px;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 5px black;
+    color: beige;
+    padding-top: 120px;
+    letter-spacing: 3px;
+}
